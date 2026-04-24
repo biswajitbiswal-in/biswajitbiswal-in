@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an aspiring Full Stack Developer (MERN) with a strong focus on Java and Data Structures & Algorithms (DSA), currently building real-world projects to strengthen my development skills and understanding of scalable applications. I have foundational skills in HTML, CSS, and JavaScript, with experience in responsive design, DOM manipulation, and basic game development projects. My aim is to become a highly skilled developer capable of creating efficient, user-friendly, and impactful applications. Alongside full stack development, I am deeply interested in Artificial Intelligence and Machine Learning, and I am working towards becoming an AI/ML Engineer by continuously improving my problem-solving abilities, coding skills, and technical knowledge. I am committed to consistent learning, hands-on practice, and growing into a developer who can contribute effectively to modern technology.
+I am a MERN Full Stack Developer skilled in HTML, CSS, and JavaScript, with a strong focus on Java and Data Structures & Algorithms (DSA). I build responsive, real-world projects and continuously improve my problem-solving skills, aiming to become an AI/ML Engineer and create impactful, scalable solutions.
 
 
 ## 🌐 Socials:
