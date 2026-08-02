@@ -1,27 +1,29 @@
 <div align="center">
 
-# Hi, I'm Biswajit Biswal 👋
-
-**MERN Full Stack Developer &nbsp;·&nbsp; DSA Practitioner &nbsp;·&nbsp; Aspiring AI/ML Engineer**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C9FF,100:00FFA3&height=220&section=header&text=Biswajit%20Biswal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Full%20Stack%20Developer%20%7C%20DSA%20Practitioner%20%7C%20Aspiring%20AI%2FML%20Engineer&descAlignY=58&descSize=18" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajit-biswal-in)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/BiswajitBi6483)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/_mr_rahul_045)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biswajitbiswal.in@gmail.com)
+<a href="https://linkedin.com/in/biswajit-biswal-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/BiswajitBi6483"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/_mr_rahul_045"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:biswajitbiswal.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+applications;Solving+DSA+problems+every+single+day;Leveling+up+towards+AI+%2F+ML" />
 
 </div>
 
 <br/>
 
-### 👨‍💻 About Me
+## ⚡ About Me
 
-I'm a full stack developer focused on the MERN stack, with a strong foundation in data structures and algorithms that I practice consistently to sharpen my problem-solving skills. My current work involves building and deploying end-to-end web applications, from designing responsive frontends to structuring scalable backends and databases. Longer term, I'm working toward a transition into AI/ML, aiming to combine my software engineering background with applied machine learning.
+I'm a full stack developer focused on the **MERN stack**, with a strong foundation in data structures and algorithms that I practice consistently to sharpen my problem-solving skills. My current work involves building and deploying end-to-end web applications, from designing responsive frontends to structuring scalable backends and databases. Longer term, I'm working toward a transition into **AI/ML**, aiming to combine my software engineering background with applied machine learning.
 
 <br/>
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <table>
 <tr>
@@ -77,18 +79,26 @@ I'm a full stack developer focused on the MERN stack, with a strong foundation i
 
 <br/>
 
-### 📊 GitHub Overview
+## 📊 GitHub Overview
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=biswajitbiswal-in&layout=compact&theme=default&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=biswajitbiswal-in&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
+
 <br/>
-<img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=default&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=radical&hide_border=true&background=00000000" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=biswajitbiswal-in&theme=react-dark&hide_border=true&bg_color=00000000&line=00C9FF&color=ffffff" />
+
 </div>
 
 <br/>
 
-### 🎯 Currently
+## 🚀 Currently
 
 - 📚 Practicing DSA in Java on a daily basis
 - 🛠️ Building and deploying MERN stack projects
@@ -98,6 +108,10 @@ I'm a full stack developer focused on the MERN stack, with a strong foundation i
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=biswajitbiswal-in&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=biswajitbiswal-in&style=for-the-badge&color=00C9FF)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00C9FF,100:7F00FF&height=120&section=footer" />
 
 </div>
