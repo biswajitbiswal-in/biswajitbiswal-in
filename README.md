@@ -1,109 +1,103 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Biswajit Biswal</h1>
+<h3 align="center">MERN Full Stack Developer | DSA Enthusiast | Aspiring AI/ML Engineer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=250&section=header&text=BISWAJIT%20BISWAL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20DSA%20Practitioner%20%E2%80%A2%20Future%20AI%2FML%20Engineer&descAlignY=55&descSize=16&descColor=b8c1ec"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+responsive+real-world+projects;Strengthening+DSA+and+problem-solving;Learning+to+become+an+AI%2FML+Engineer" alt="Typing SVG" />
+</p>
 
-<br/>
+<p align="center">
+<a href="https://linkedin.com/in/biswajit-biswal-in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/BiswajitBi6483" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+<a href="https://instagram.com/_mr_rahul_045" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:biswajitbiswal.in@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=B388FF&center=true&vCenter=true&width=780&lines=Turning+ideas+into+working+software;Full-stack+with+the+MERN+ecosystem;Sharpening+logic+through+Java+%26+DSA;Preparing+for+a+career+in+AI+%2F+ML" />
+---
 
-<br/>
-
-<a href="https://linkedin.com/in/biswajit-biswal-in"><img src="https://img.shields.io/badge/-LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=B388FF"/></a>&nbsp;
-<a href="https://x.com/BiswajitBi6483"><img src="https://img.shields.io/badge/-X-121212?style=flat-square&logo=x&logoColor=B388FF"/></a>&nbsp;
-<a href="https://instagram.com/_mr_rahul_045"><img src="https://img.shields.io/badge/-Instagram-121212?style=flat-square&logo=instagram&logoColor=B388FF"/></a>&nbsp;
-<a href="mailto:biswajitbiswal.in@gmail.com"><img src="https://img.shields.io/badge/-Email-121212?style=flat-square&logo=gmail&logoColor=B388FF"/></a>
-
-</div>
-
-<br/>
-
-### 🪐 Who I Am
-
-I'm a **MERN Full Stack Developer** who enjoys turning ideas into responsive, production-ready applications. Alongside web development, I spend serious time on **Java** and **Data Structures & Algorithms**, treating problem-solving as a daily habit rather than a checkbox. Long-term, I'm working toward a future in **AI/ML Engineering**, where I want to build solutions that are not just functional, but genuinely impactful at scale.
-
-<br/>
-
-### 🛰️ What I Work With
-
-<table align="center">
-<tr>
-<th align="center">Category</th>
-<th align="center">Tools</th>
-</tr>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java,c,js,py&theme=dark"/></td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/></td>
-</tr>
-<tr>
-<td align="center"><b>Backend & DB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark"/></td>
-</tr>
-<tr>
-<td align="center"><b>Deployment & Tools</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,vscode,postman&theme=dark"/></td>
-</tr>
-</table>
-
-<br/>
-
-### 🌌 Where I'm Headed
-
-<div align="center">
 <table>
 <tr>
-<td align="center" width="180">🧩<br/><b>DSA</b><br/><sub>Daily practice in Java</sub></td>
-<td align="center" width="180">🏗️<br/><b>MERN Projects</b><br/><sub>Real-world builds</sub></td>
-<td align="center" width="180">🧠<br/><b>AI / ML</b><br/><sub>Building foundations</sub></td>
-<td align="center" width="180">📐<br/><b>System Design</b><br/><sub>Thinking at scale</sub></td>
+<td width="50%" valign="top">
+
+### 💫 About Me
+
+- 🔭 I'm a **MERN Full Stack Developer** skilled in HTML, CSS, and JavaScript
+- 🧠 Strong focus on **Java** and **Data Structures & Algorithms (DSA)**
+- 🏗️ I build responsive, real-world projects and keep sharpening my problem-solving skills
+- 🎯 Goal: become an **AI/ML Engineer** and build impactful, scalable solutions
+- 📫 Reach me at **biswajitbiswal.in@gmail.com**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+
+</td>
 </tr>
 </table>
-</div>
-
-<br/>
 
 ---
 
-<div align="center">
+### 💻 Tech Stack
 
-## 『 DATA::STREAM 』
+**Languages**
+<p>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=biswajitbiswal-in&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff00c8&icon_color=00fff9&text_color=e0e0e0&bg_color=0d0221" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajitbiswal-in&layout=compact&theme=radical&hide_border=true&title_color=ff00c8&text_color=e0e0e0&bg_color=0d0221" height="165"/>
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=radical&hide_border=true&background=0D0221&ring=FF00C8&fire=00FFF9&currStreakLabel=00FFF9"/>
+**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajitbiswal-in&theme=redical&hide_border=true&bg_color=0D0221&color=00fff9&line=ff00c8&point=ffffff" width="95%"/>
-
-</div>
-
-<br/>
-
-### 🪐 3D Contribution Grid
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/biswajitbiswal-in/biswajitbiswal-in/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-<sub>⚠ Needs a snake-animation GitHub Action set up once on your profile repo — say the word and I'll write that workflow file</sub>
-</div>
+**Deployment**
+<p>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify"/>
+<img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+</p>
 
 ---
 
-<br/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<div align="center">
+### 🔥 GitHub Streak
 
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=biswajitbiswal-in&label=Profile%20Views&color=B388FF&style=flat-square"/></a>
+<img src="https://streak-stats.demolab.com/?user=biswajitbiswal-in&theme=dark&hide_border=false" width="100%"/>
 
-<br/><br/>
+</td>
+<td width="40%" valign="top">
 
-<sub>Thanks for stopping by — always open to connect, collaborate, or talk code.</sub>
+### 🏆 Top Languages
 
-<br/><br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=biswajitbiswal-in&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</td>
+</tr>
+</table>
 
-</div>
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=biswajitbiswal-in&icon=0&color=0" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center"><i>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></i></p>
