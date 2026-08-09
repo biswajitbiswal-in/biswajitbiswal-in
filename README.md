@@ -1,24 +1,6 @@
 <p align="center">
-  <img src="./editor-tab.svg" alt="about.js" width="100%" />
+  <img src="./hero.svg" alt="Biswajit Biswal" width="100%" />
 </p>
-
-```js
-const biswajit = {
-  name: "Biswajit Biswal",
-  role: "MERN Full Stack Developer",
-  location: "India",
-  focus: ["DSA in Java", "MERN projects", "AI/ML fundamentals"],
-  stack: {
-    languages: ["Java", "JavaScript", "Python", "C"],
-    frontend: ["React", "HTML5", "CSS3"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "MySQL"],
-    deploy: ["Vercel", "Netlify", "Render"],
-  },
-  currentlyLearning: "AI / ML",
-  motto: "small consistent commits build big careers",
-};
-```
 
 <p align="center">
   <a href="https://linkedin.com/in/biswajit-biswal-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -28,24 +10,36 @@ const biswajit = {
 
 <br/>
 
-```bash
-$ cat currently.log
-> practicing DSA in Java, daily
-> building and shipping MERN stack projects
-> learning the math behind AI/ML
-```
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### About
+
+MERN Full Stack Developer building React front ends and Node.js/Express APIs backed by MongoDB and MySQL, deployed on Vercel, Netlify, and Render.
+
+</td>
+<td width="50%" valign="top">
+
+### Focus
+
+- Solving DSA problems in Java, daily
+- Shipping full stack projects end-to-end
+- Building foundations in AI/ML
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=biswajitbiswal-in&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,py,react,nodejs,express,mongodb,mysql,vercel" alt="tech stack" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=github-dark-blue&hide_border=true&background=0d1117" />
-</p>
+<br/>
 
 <p align="center">
-<code>// end of file</code>
+  <img src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
+  <img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" />
 </p>
