@@ -1,0 +1,6 @@
+<svg width="900" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="170" fill="#0d1117"/>
+  <text x="450" y="80" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" fill="#f0f6fc">Biswajit Biswal</text>
+  <line x1="360" y1="102" x2="540" y2="102" stroke="#3fb950" stroke-width="2"/>
+  <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">MERN Full Stack Developer &#183; DSA in Java &#183; AI/ML in progress</text>
+</svg>
