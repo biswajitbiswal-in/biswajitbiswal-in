@@ -40,6 +40,16 @@ MERN Full Stack Developer building React front ends and Node.js/Express APIs bac
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=biswajitbiswal-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
-  <img src="https://streak-stats.demolab.com?user=biswajitbiswal-in&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biswajitbiswal-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=biswajitbiswal-in&theme=dark&hide_border=true&background=0d1117" height="165" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+### Quick Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile-Views-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Repos-Public%20Projects-brightgreen?logo=github" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-orange?logo=code" />
+  <img src="https://img.shields.io/badge/Learning-Java%20%7C%20DSA%20%7C%20AI%2FML-red?logo=github" />
 </p>
