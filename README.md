@@ -37,34 +37,19 @@ MERN Full Stack Developer building React front ends and Node.js/Express APIs bac
 
 <br/>
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biswajitbiswal-in&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=biswajitbiswal-in&theme=dark&hide_border=true&background=0d1117" height="165" alt="GitHub Streak" />
 </p>
 
 <br/>
 
-### 🎯 Quick Overview
+### Quick Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-MERN%20Stack-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Projects-brightgreen?style=for-the-badge&logo=code" />
-  <img src="https://img.shields.io/badge/Learning-AI%2FML-orange?style=for-the-badge&logo=brain" />
-</p>
-
-<br/>
-
-### 📈 Activity Summary
-- 💻 Building full-stack applications
-- 🔍 Active in open source & personal projects
-- 📚 Continuous learning & skill development
-- 🚀 Deploying on Vercel, Netlify & Render
-
-<br/>
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/biswajit-biswal-in">LinkedIn</a> • 
-  <a href="https://github.com/biswajitbiswal-in">GitHub</a> • 
-  <a href="mailto:biswajitbiswal.in@gmail.com">Email</a>
+  <img src="https://img.shields.io/badge/Profile-Views-blue?logo=github" />
+  <img src="https://img.shields.io/badge/Repos-Public%20Projects-brightgreen?logo=github" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-orange?logo=code" />
+  <img src="https://img.shields.io/badge/Learning-Java%20%7C%20DSA%20%7C%20AI%2FML-red?logo=github" />
 </p>
